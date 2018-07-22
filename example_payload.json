@@ -1,0 +1,69 @@
+{
+   "columnHeader":[
+      "bgTrans",
+      "transTimestamp",
+      "Avb",
+      "transTime"
+   ],
+   "formattedData":[
+      [
+         "07_MY_TEST",
+         "07/09/2018 14:25:01.000",
+         "100.0",
+         "1734.0"
+      ],
+      [
+         "TEST_STEP_NAME",
+         "07/09/2018 14:25:11.000",
+         "100.0",
+         "91250.0"
+      ],
+      [
+         "01TEST_STEP_NAME",
+         "07/09/2018 14:25:21.000",
+         "100.0",
+         "2062.0"
+      ],
+      [
+         "ANOTHER_TEST",
+         "07/09/2018 14:25:26.000",
+         "100.0",
+         "2875.0"
+      ],
+      [
+         "01_ANOTHER_TEST_NAME",
+         "07/09/2018 14:25:27.000",
+         "100.0",
+         "5360.0"
+      ]
+   ],
+   "timeBegin":1531110300000,
+   "timeEnd":1531113900000,
+   "dmiServiceError":[
+      {
+         "error":false,
+         "info":false,
+         "warning":false
+      }
+   ],
+   "timeout":false,
+   "timeoutValue":600000,
+   "columnUnit":[
+      "",
+      "",
+      "%",
+      "ms"
+   ],
+   "columnHeaderName":[
+      "Transaction",
+      "Transaction timestamp",
+      "Availability (total)",
+      "Transaction time"
+   ],
+   "columnRendererIds":[
+      "STRING",
+      "DATE",
+      "PERCENT",
+      "PERIOD_MS"
+   ]
+}
